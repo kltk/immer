@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`currentWithPatches - es5 只能用 Draft 作参数 1`] = `"[Immer] 'current' expects a draft, got: [object Object]"`;
+
+exports[`currentWithPatches - proxy 只能用 Draft 作参数 1`] = `"[Immer] 'current' expects a draft, got: [object Object]"`;

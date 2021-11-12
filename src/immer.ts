@@ -13,6 +13,7 @@ export {
 	PatchListener,
 	original,
 	current,
+	currentWithPatches,
 	isDraft,
 	isDraftable,
 	NOTHING as nothing,
